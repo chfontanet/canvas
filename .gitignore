@@ -1,0 +1,3 @@
+# Remove unnecessary folders
+.idea/
+target/
