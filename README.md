@@ -9,7 +9,7 @@ You can overwrite lines or rectangles over other lines rectangles or painted can
 Valid characters to paint with bucket fill are letters, either uppercase or lowercase, or numbers.
 
 ## Exceptions
-Throwing IllegalStateException when creating a canvas created previously, or when attempting to draw when canvas is not created yet.
+Throwing IllegalStateException when creating a canvas created previously, or when attempting to draw when canvas is not created yet.  
 Throwing IllegalArgumentException when input is not correct:
 - Option is not recognised
 - Number of parameters are not valid
